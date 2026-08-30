@@ -11,7 +11,7 @@ dvc checkout
 
 $ git checkout v1
 Note: switching to 'v1'.
-HEAD is now at 8d5fdc0 Q3: data v1 (1800 rows + header)
+HEAD is now at <commit-hash> Q3: data v1 (1800 rows + header)
 
 $ dvc checkout
 M       Q3_DVC/data/

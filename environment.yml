@@ -1,0 +1,6 @@
+name: aiops
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.13
+prefix: /home/ramscp/miniforge3/envs/aiops

@@ -1,0 +1,4 @@
+[core]
+    remote = sshremote
+['remote "sshremote"']
+    url = ssh://ramanagopalkodali@10.0.2.2/Users/ramanagopalkodali/dvc_storage_module1
